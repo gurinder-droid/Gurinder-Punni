@@ -4,8 +4,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gurinderdroid alt=gurinderdroid /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=gurinderdroid&show_icons=true&include_all_commits=true)](https://github.com/gurinderdroid/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurinderdroid&layout=compact)](https://github.com/gurinderdroid/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gurinder-droid&show_icons=true&include_all_commits=true)](https://github.com/gurinderdroid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurinder-droid&layout=compact)](https://github.com/gurinderdroid/github-readme-stats)
 
 I'm currently learning Power BI in my TripleTen business analytics tech bootcamp. I am near the end of the bootcamp. I am receptive to participate in outsourcing project to utlize my skills and gain more experience. 
 
